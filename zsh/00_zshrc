@@ -10,3 +10,5 @@ fi
 
 eval "$(starship init zsh)"
 eval "$(sheldon source)"
+
+export PATH=$HOME/Documents/flutter/bin:$PATH
